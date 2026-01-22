@@ -144,3 +144,19 @@ This case study demonstrates the ability to:
 - Deliver production-ready Flutter apps as a solo developer
 
 The focus is **execution, reliability, and business value**.
+
+---
+
+## 🧑‍💻 Author
+
+**Keval Motisariya**  
+Aspiring Full Stack Developer
+- GitHub: https://github.com/KevalMotisariya
+- Portfolio: https://kevalmotisariyadev.lovable.app/
+- LinkedIn: https://www.linkedin.com/in/keval-motisariya/
+- Email: kevalmotisariya225@gmail.com
+- Contact: +91 9023966995
+
+---
+
+⭐ If you like this case-study, consider giving it a star!
